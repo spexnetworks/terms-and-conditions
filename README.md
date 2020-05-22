@@ -27,7 +27,7 @@ Es requisito necesario para la adquisición y/o uso de los servicios que se ofre
 En algunos casos, para adquirir un producto de Videsk, será necesario el registro por parte del Usuario, con ingreso de información fidedigna y creación de una contraseña.
 
 Para acceder a los servicios que se presten por medio de Videsk, será necesario el registro de parte del Usuario por medio de formularios de contacto u otras formas de registro. La acción de agregar, quitar o modificar formularios o registros es decisión exclusiva de la institución que habilite Videsk en su plataforma digital.
-**Todas las compras y transacciones que se realicen por medio de los servicios, están sujetas al cumplimiento de las condiciones requeridas por el medio de pago seleccionado.**** En algunos casos puede que requiera una verificación por medio de correo electrónico.**
+**Todas las compras y transacciones que se realicen por medio de los servicios, están sujetas al cumplimiento de las condiciones requeridas por el medio de pago seleccionado.** En algunos casos puede que requiera una verificación por medio de correo electrónico.
 
 Los Términos y Condiciones que se tratan en este documento son de carácter general por lo que no necesariamente aplicarán para eventos especiales tales como ofertas, actividades particulares o promociones determinadas, en cuyo caso se informará de manera oportuna si el evento o actividad determinada contará con una variación en los Términos y Condiciones en relación a los servicios aplicables.
 
